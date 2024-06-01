@@ -13,7 +13,7 @@ func main() {
 		fmt.Println("Usage: wallpaper <file>")
 		return
 	}
-	err := wallpaper.SetFromFile(args[1])
+	err := wallpaper.SetFromFile(args[1], wallpaper.ModeZoom)
 	if err != nil {
 		panic(err)
 	}

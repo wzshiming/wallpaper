@@ -2,7 +2,6 @@
 
 Set the desktop wallpaper on Windows, Mac, and Linux.
 
-wrap the following:
-- github.com/elias-gill/wallpaper
-- github.com/sindresorhus/macos-wallpaper
-- github.com/sindresorhus/win-wallpaper
+## License
+
+Licensed under the MIT License. See [LICENSE](https://github.com/wzshiming/wallpaper/blob/master/LICENSE) for the full license text.
